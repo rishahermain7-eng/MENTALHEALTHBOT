@@ -1,5 +1,3 @@
-Perfect 👍 That’s a great step — a **README.md** makes your repo professional.
-Here’s a clean draft you can paste into your `README.md`:
 
 ````markdown
 # 🧠 Mental Health Chatbot
